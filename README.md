@@ -1,5 +1,6 @@
 # MasterTimeManager
-TimeKeeper
+printf "TimeKeeper V1.0"
+
 
 Here to develope a Working Punch Clock for a personal workspace that encorporated encryption/editing tools.
 
